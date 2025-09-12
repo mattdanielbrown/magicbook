@@ -35,7 +35,7 @@
     "tinyliquid": "^0.2.34",
     "vinyl-fs": "^3.0.3",
     "yaml-front-matter": "^4.0.0",
-    "yargs": "^13.2.4"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "diff": "^4.0.1",
