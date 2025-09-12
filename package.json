@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "diff": "^4.0.1",
-    "jasmine": "^3.4.0",
+    "jasmine": "^5.9.0",
     "node-uuid": "^1.4.8",
     "rimraf": "^2.6.3"
   },
