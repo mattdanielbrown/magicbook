@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "async": "^3.0.1",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0",
     "chokidar": "^3.0.1",
     "clean-css": "^4.2.1",
     "debug": "^4.1.1",
@@ -20,11 +20,11 @@
     "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
     "hashids": "^1.2.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "markdown-it": "^8.4.2",
     "mkdirp": "^0.5.1",
     "modify-filename": "^1.1.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^9.0.0",
     "prince": "^1.6.3",
     "rev-hash": "^3.0.0",
     "rev-path": "^2.0.0",
@@ -38,7 +38,7 @@
     "yargs": "^13.2.4"
   },
   "devDependencies": {
-    "diff": "^4.0.1",
+    "diff": "^8.0.3",
     "jasmine": "^3.4.0",
     "node-uuid": "^1.4.8",
     "rimraf": "^2.6.3"
